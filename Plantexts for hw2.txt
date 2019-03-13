@@ -1,0 +1,36 @@
+PT1
+Mr. Moran,
+
+The exchange will happen on October 7th at midnight. Do not be late.
+I have sent further instructions in a separate message, which you may find at:
+https://drive.google.com/drive/folders/1AKnkcoQzDR8uac2nfqOrN6hs9-MO6uHG?usp=sharing
+
+To protect the secrecy of my message, I have hidden it among thousands of decoy messages. Those foolish detectives will never find out which one is the real message!
+You may identify the real message by computing its SHA-256 hash value (use the MessageDigest class with SHA-256). The first two bytes of the hash value of the real message are 3 and 59, respectively.
+
+Sincerely,
+Professor Moriarty
+
+
+
+PT2
+FIle: plain2673
+
+
+
+
+
+
+PT3
+Mr. Moran, follow this:  https://goo.gl/6boJYN
+
+
+
+
+
+PT4
+"The location is St. Pancras railway station. Sincerely, Professor Moriarty"
+
+When you discover the location of the meeting, you immediately notify Inspector Lestrade. He and Inspector Bradstreet assemble a team of detectives and rush to the railway station. They arrive just in time to arrest both Moriarty's agent and Mr. Moran. Unfortunately, the dastardly Professor Moriarty once again escapes. He is truly the Napoleon of crime. Nonetheless, the detectives recover the Koh-i-Noor diamond and return to the Tower of London. Dr. Watson turns to you and says: "Excellent cryptanalysis!" to which you simply reply "Elementary, my dear Watson."
+
+BUILD SUCCESSFUL (total time: 0 seconds)
